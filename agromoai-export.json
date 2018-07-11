@@ -1,0 +1,52 @@
+{
+  "mites" : {
+    "000DDBB9-41FE-436F-8129-BFB7BA2BE9E9" : {
+      "disease" : "Spider Mite",
+      "latitude" : 47.648337177356645,
+      "longitude" : -122.33233925197366,
+      "notes" : "Fjsjfhv",
+      "severity" : 10,
+      "timestamp" : 1.531158177489855E9
+    },
+    "1A61A89D-8B14-4A4A-A918-2AE3414CD1C8" : {
+      "disease" : "Downy Mildew (Primary Infection)",
+      "latitude" : 48.993255,
+      "longitude" : -116.513966,
+      "notes" : "Cbsjcf",
+      "severity" : 4,
+      "timestamp" : 1.431158167806886E9
+    },
+    "663D404F-CF8D-4A57-AFEF-9D5BAFEF847A" : {
+      "disease" : "Spider Mite",
+      "latitude" : 47.648337177356645,
+      "longitude" : -122.33233925197366,
+      "notes" : "",
+      "severity" : 1,
+      "timestamp" : 1.521158180789822E9
+    },
+    "9BC0EF12-8AF7-4916-B71E-4827B79DAB52" : {
+      "disease" : "Bertha Armyworms",
+      "latitude" : 47.648337177356645,
+      "longitude" : -122.33233925197366,
+      "notes" : "Djebcf",
+      "severity" : 2,
+      "timestamp" : 1.531158188557915E9
+    },
+    "B6D726C7-77AC-4A8E-BC3F-B02B0528E763" : {
+      "disease" : "Bertha Armyworms",
+      "latitude" : 47.648337177356645,
+      "longitude" : -122.33233925197366,
+      "notes" : "Chsjdbs",
+      "severity" : 5,
+      "timestamp" : 1.531158504041253E9
+    },
+    "D8A433D1-D090-4CD7-8582-986BC112FA7C" : {
+      "disease" : "Downy Mildew (Primary Infection)",
+      "latitude" : 47.648337177356645,
+      "longitude" : -122.33233925197366,
+      "notes" : "Chsjsbs",
+      "severity" : 3,
+      "timestamp" : 1.53125819667935E9
+    }
+  }
+}
